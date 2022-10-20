@@ -4,7 +4,7 @@ for(i=1;i<=num;i++){
     count++;
    }
   }
-if(count==3){
+if(count==2){
 console.log("Prime")
 }
 else{
